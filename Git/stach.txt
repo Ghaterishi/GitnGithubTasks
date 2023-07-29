@@ -1,0 +1,2 @@
+This is file used for git stash practical.
+develpoment branch.
